@@ -4,7 +4,7 @@ This repository contains code for analyses as seen in "Differentiation of human 
 
 Manuscript can be found here: https://www.biorxiv.org/content/10.1101/2020.03.15.991950v1.
 
-## Getting Started
+## About
 
 To run this project, install Scanpy from [here](https://github.com/theislab/scanpy). Make sure to have a recent version of Python. As of March 2020, we are using Python version 3.7.3.
 
