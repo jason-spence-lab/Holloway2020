@@ -4,6 +4,10 @@ This repository contains code for analyses as seen in "Differentiation of human 
 
 Manuscript can be found here: https://www.biorxiv.org/content/10.1101/2020.03.15.991950v1.
 
+## Abstract
+
+Human pluripotent stem cell (hPSC)-derived intestinal organoids (HIOs) generated using directed differentiation lack some cellular populations found in the native organ, including vasculature. Using single cell RNA sequencing (scRNAseq), we have identified a transient population of endothelial cells (ECs) present early in HIO differentiation that are lost over time in culture. Here, we have developed a method to enhance co-differentiation and maintenance of ECs within HIOs (vHIOs). Given that ECs are known to possess organ specific gene expression, morphology and function, we used bulk RNAseq and scRNAseq to interrogate the developing human intestine, lung, and kidney in order to identify organ-enriched EC-gene signatures in these organ systems. By comparing organ-specific gene signatures along with markers validated by fluorescent in situ hybridization to HIO ECs, we find that HIO ECs grown in vitro share the highest similarity with native intestinal ECs relative to kidney and lung. Together, these data show that HIOs can co-differentiate a native EC population that are properly patterned with an intestine-specific EC transcriptional signature in vitro.
+
 ## About
 
 To run this project, install Scanpy from [here](https://github.com/theislab/scanpy). Make sure to have a recent version of Python. As of March 2020, we are using Python version 3.7.3.
