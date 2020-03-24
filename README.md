@@ -1,6 +1,6 @@
 # Holloway2020
 
-This repository contains code for analyses as seen in "Differentiation of human intestinal organoids with endogenous vascular endothelial cells" - Holloway et. al (2020). 
+This repository contains code for analyses as seen in "Differentiation of human intestinal organoids with endogenous vascular endothelial cells" - Emily M. Holloway et. al (2020). 
 
 Manuscript can be found here: https://www.biorxiv.org/content/10.1101/2020.03.15.991950v1.
 
